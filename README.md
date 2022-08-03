@@ -1,0 +1,2 @@
+# SwitchIleHesapMakinesi
+#www.patika.dev
